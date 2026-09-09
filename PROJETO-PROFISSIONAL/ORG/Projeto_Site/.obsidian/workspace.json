@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "6d6a1888a4d4f901",
+    "type": "split",
+    "children": [
+      {
+        "id": "439e793f76b8eb5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fe3d44268d5db46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOMES PROPROSTOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NOMES PROPROSTOS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47e54f390b199c00",
+    "type": "split",
+    "children": [
+      {
+        "id": "a53303464d0a816a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99002b6043d4c101",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "f9f6d2649dc7990a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "0efcf222f426eeb0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e4da7c2d2d759d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f99615b53e245b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf1a1a71c573a1e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "INSPIRAÇÕES.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para INSPIRAÇÕES"
+            }
+          },
+          {
+            "id": "ec549a1254f17271",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "INSPIRAÇÕES.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para INSPIRAÇÕES"
+            }
+          },
+          {
+            "id": "0875c1cd7fc004e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "a7ba789e0d85f44d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "2caac16e80d26c7b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "INSPIRAÇÕES.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de INSPIRAÇÕES"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "3fe3d44268d5db46",
+  "lastOpenFiles": [
+    "LISTA DE SERVIÇOS.md",
+    "INSPIRAÇÕES.md",
+    "IDEIAS.md",
+    "FERRAMENTAS NECESSÁRIAS.md",
+    "ESTUDO CSS.md",
+    "AÇÕES.md",
+    "IMAGENS/cliente_brf.png",
+    "IMAGENS/Pasted image 20260827172602.png",
+    "IMAGENS",
+    "IMAGENS/Pasted image 20260907190551.png",
+    "ENSAIO.md",
+    "NOMES PROPROSTOS.md",
+    "IMAGENS/Pasted image 20260830115128.png",
+    "IMAGENS/Pasted image 20260828164000.png",
+    "IMAGENS/Pasted image 20260828155040.png"
+  ]
+}

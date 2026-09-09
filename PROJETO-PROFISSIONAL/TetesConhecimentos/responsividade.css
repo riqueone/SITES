@@ -1,0 +1,23 @@
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background: linear-gradient(to bottom, rgb(175, 212, 226), rgb(60, 98, 113));
+    background-attachment: fixed;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 800px;
+    min-width: 350px;
+}
+
+img{
+    width: 100%;
+}

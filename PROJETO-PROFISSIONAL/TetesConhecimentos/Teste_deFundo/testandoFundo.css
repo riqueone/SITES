@@ -1,0 +1,8 @@
+body{
+    background-image: url("../../Imagens/Dpi-10.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    border: 1px dashed purple;
+    height: 97vh;
+    background-size: 90vw 90vh;
+}
