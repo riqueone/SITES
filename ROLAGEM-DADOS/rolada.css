@@ -28,6 +28,7 @@ main {
 }
 
 section{
+    padding:15px 0px 15px 0px;
     width: 100%;
 }
 
@@ -45,6 +46,24 @@ button.tipDado{
     height: var(--tamBot);
     background-color: rgb(52, 5, 22);
     font-size: 2.5em;
+}
+
+button#d4{
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+button#d6{
+
+}
+
+button#d8{
+    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 section#sec_rolagem{
