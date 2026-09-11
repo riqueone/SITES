@@ -1,0 +1,44 @@
+:root{
+ --tamBot: 150px;
+}
+
+*{
+    margin:0px;
+    padding:0px;
+    border:1px dashed purple;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(17, 17, 17);
+    color: aliceblue;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 1000px;
+}
+
+section{
+    width: 100%;
+}
+
+section#sec_dados{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    gap:10px;
+}
+
+button.tipDado{
+    width: var(--tamBot);
+    height: var(--tamBot);
+}
