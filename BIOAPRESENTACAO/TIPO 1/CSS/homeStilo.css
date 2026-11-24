@@ -28,13 +28,22 @@ img#ft_perfil{
     height: var(--tamFtPerfil);
     width: var(--tamFtPerfil);
     border-radius: 75px;
+    margin-top: -75px;
 }
 section{
     margin: 5px 0px 5px 0px; /*APAGAR*/
 }
 section#boxBar_Dados{
-    border: 1px dashed rgb(148, 25, 119) ;
-    height: 60px;
+    border: 2px dashed rgb(148, 25, 119) ;
+    height: 150px;
+    width: 100%;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+div.itemInfo{
+    border: 1px dashed rgb(59, 160, 163) ;
+    height: 35px;
     width: 100%;
 }
 section#boxBar_Contatos{
