@@ -29,12 +29,15 @@ img#ft_perfil{
     width: var(--tamFtPerfil);
     border-radius: 75px;
     margin-top: -75px;
+    transform: translateX(5px);
+    object-fit: cover;
+    display: block;
 }
 section{
     margin: 5px 0px 5px 0px; /*APAGAR*/
 }
 section#boxBar_Dados{
-    border: 2px dashed rgb(148, 25, 119) ;
+    border: 2px dashed rgb(148, 25, 119) ;/*APAGAR*/
     height: 150px;
     width: 100%;
     display: flex;
@@ -42,24 +45,24 @@ section#boxBar_Dados{
     align-items: center;
 }
 div.itemInfo{
-    border: 1px dashed rgb(59, 160, 163) ;
+    border: 1px dashed rgb(59, 160, 163) ;/*APAGAR*/
     height: 35px;
     width: 100%;
 }
 section#boxBar_Contatos{
-    border: 1px dashed rgb(39, 148, 25) ;
+    border: 1px dashed rgb(39, 148, 25) ;/*APAGAR*/
     height: 60px;
     width: 100%;
     display: flex;
     justify-content: center;
 }
 button.bt_contatos{
-    border: 1px dashed rgb(39, 148, 25);
+    border: 1px dashed rgb(39, 148, 25);/*APAGAR*/
     height: 50px;
     width: 50px;
 }
 section#boxBar_Acao{
-    border: 1px dashed rgb(148, 12, 16);
+    border: 1px dashed rgb(148, 12, 16);/*APAGAR*/
     height: 180px;
     width: 100%;
     display: flex;
@@ -67,8 +70,16 @@ section#boxBar_Acao{
     align-items:center;
 }
 button.bt_acao{
-    border: 1px dashed rgb(148, 12, 16);
+    border: 1px dashed rgb(148, 12, 16);/*APAGAR*/
     height: 80px;
     width: 80%;
     border-radius: 40px;
+}
+section#boxBar_Repertorio{
+    border: 1px dashed rgb(245, 135, 31);/*APAGAR*/
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
 }
