@@ -1,0 +1,9 @@
+:root{ /*DEFINIÇÃO DE VARIÁVEIS GLOBAIS*/
+
+}
+
+*{ /*CONFIGURAÇÃO PARA TODAS AS TAGS*/
+background-color:#000000;
+color:white;
+border: 1px dashed purple ;
+}
