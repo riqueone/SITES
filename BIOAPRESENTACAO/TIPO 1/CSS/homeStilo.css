@@ -83,3 +83,23 @@ section#boxBar_Repertorio{
     flex-direction: column;
     align-items:center;
 }
+div.itemReper{
+    height:auto;
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+div.dentoImg{
+    transform: translateY(40px);
+    margin-top: -30px;
+    background-color: rgba(255, 255, 255, 0);
+    width:450px; /* A* Esse tamanho deve ser o mesmo da imagem*/
+}
+h3.dentoImg,p.dentoImg{
+    background-color: rgba(255, 255, 255, 0);
+}
+img.img_itemReper{
+    height:252px;
+    width:450px; /* A* Esse tamanho deve ser o mesmo da imagem*/
+}
