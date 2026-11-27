@@ -2,7 +2,6 @@
     --tamFtPerfil:150px;
 }
 *{ /*CONFIGURAÇÃO PARA TODAS AS TAGS*/
-background-color:#000000;
 color:white;
 padding: 0px;
 margin: 0px;
@@ -91,9 +90,8 @@ div.itemReper{
     align-items: center;
 }
 div.dentoImg{
-    transform: translateY(40px);
+    transform: translate(15px,45px);
     margin-top: -30px;
-    background-color: rgba(255, 255, 255, 0);
     width:450px; /* A* Esse tamanho deve ser o mesmo da imagem*/
 }
 h3.dentoImg,p.dentoImg{
@@ -102,4 +100,17 @@ h3.dentoImg,p.dentoImg{
 img.img_itemReper{
     height:252px;
     width:450px; /* A* Esse tamanho deve ser o mesmo da imagem*/
+    border-radius: 10px;
+    background-size: cover;
+    background-position: center;
+}
+img#img_itemReper_1{
+    background-image:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 10%, rgba(0, 0, 0, 0) 40%),
+    url("../IMAGENS/Visao-interna.jpg");
+}
+img#img_itemReper_2{
+    background-image:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 10%, rgba(0, 0, 0, 0) 40%),
+    url("../IMAGENS/Monitoramento.jpg");
 }
