@@ -21,9 +21,7 @@ body{
 div#boxImg_Capa{
     height: 300px;
     width: 100%;
-    background-image:
-    linear-gradient(to top, rgba(255, 255, 255, 1) 1%, rgba(255, 255, 255, 0) 2%),
-    url("../IMAGENS/CapaInicial.jpg");
+    background-image: url("../IMAGENS/CapaInicial.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -47,7 +45,7 @@ h1#titulo{
 }
 div.itemInfo>p{
     font-family: "Electrolize", sans-serif;
-    font-size: 20px;
+    font-size: 18px;
 }
 section{
     margin-bottom:10px;
